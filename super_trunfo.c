@@ -47,4 +47,6 @@ int main() {
     printf("Número de pontos turísticos: %d\n", carta2.numero_pontos_turisticos);
 
     return 0;
+
+    printf("novo commit\n");
 }
